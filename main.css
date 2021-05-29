@@ -289,7 +289,7 @@ footer{
 .footer-notes-bottom{
     color: #d3b3fc;
 }
-@media (max-width:400px){
+@media (max-width:450px){
     .narrow-container{
         width: 80%;
         height: 100%;
@@ -553,7 +553,7 @@ footer{
     }
 }
 
-@media (max-width:600px)  and (min-width:400px){
+@media (max-width:600px)  and (min-width:450px){
     .narrow-container{
         width: 80%;
         height: 100%;
